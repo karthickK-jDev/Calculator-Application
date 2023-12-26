@@ -9,7 +9,7 @@
 
  # Installation
 
-  https://drive.google.com/file/d/1OMc0b72Ek5OtHytI6fuXFoOAeWEXjE8A/view?usp=drivesdk
+  Link: https://drive.google.com/file/d/1OMc0b72Ek5OtHytI6fuXFoOAeWEXjE8A/view?usp=drivesdk
   
   click to download & install within a minute.
 
